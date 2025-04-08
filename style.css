@@ -52,3 +52,69 @@ height: 90px;
     height: 193px;
     background-color: rgb(179, 237, 245)
 }
+.terceira-seção{
+    width: 360px;
+    height: 113px;
+    background-color:rgb(236, 38, 130) ;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.retangulo{
+    width: 108px;
+    height: 105px;
+    background-color: rgb(245, 179, 215)
+}
+.retangulo{
+width: 215px;
+height: 75px;
+background-color: rgb(245, 179, 215)
+}
+.quarta-seção{
+    width: 360px;
+    height: 77px;
+    background-color:rgb(212, 0, 255) ;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+    .retangulo{
+        width: 74.08px;
+        height: 74.08px;
+        background-color: rgb(226, 179, 245)
+    }
+    .retangulo{
+        width: 68px;
+        height: 68px;
+        background-color: rgb(215, 179, 245)
+      }
+    .retangulo{
+        width: 64px;
+        height: 65px;
+        background-color: rgb(215, 179, 245)
+        }
+    .retangulo{
+       width: 64px;
+       height: 67px;
+       background-color: rgb(215, 179, 245)
+       }
+       .quinta-seção{ 
+        width: 360px;
+        height: 82px;
+        background-color:rgb(234, 208, 240) ;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    .retangulo{
+        width: 360px;
+        height: 82px;
+        background-color: rgb(255, 255, 255)
+    }
+    .sexta-seção{ 
+        width: 360px;
+        height: 50px;
+        background-color:rgb(246, 250, 11) ;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;}
