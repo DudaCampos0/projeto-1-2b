@@ -45,17 +45,17 @@ height: 90px;
 .retangulo{
     width: 153px;
     height: 193px;
-    background-color: rgb(179, 237, 245)
+    background-color:blue
 }
 .retangulo{
     width: 165px;
     height: 193px;
-    background-color: rgb(179, 237, 245)
+    background-color:blue)
 }
 .terceira-seção{
     width: 360px;
     height: 113px;
-    background-color:rgb(236, 38, 130) ;
+    background-color:palevioletred
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -63,17 +63,17 @@ height: 90px;
 .retangulo{
     width: 108px;
     height: 105px;
-    background-color: rgb(245, 179, 215)
+    background-color: palevioletred
 }
 .retangulo{
 width: 215px;
 height: 75px;
-background-color: rgb(245, 179, 215)
+background-color: palevioletred
 }
 .quarta-seção{
     width: 360px;
     height: 77px;
-    background-color:rgb(212, 0, 255) ;
+    background-color:plum
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -81,27 +81,27 @@ background-color: rgb(245, 179, 215)
     .retangulo{
         width: 74.08px;
         height: 74.08px;
-        background-color: rgb(226, 179, 245)
+        background-color: rebeccapurple
     }
     .retangulo{
         width: 68px;
         height: 68px;
-        background-color: rgb(215, 179, 245)
+        background-color:rebeccapurple
       }
     .retangulo{
         width: 64px;
         height: 65px;
-        background-color: rgb(198, 129, 255)
+        background-color: rebeccapurple
         }
     .retangulo{
        width: 64px;
        height: 67px;
-       background-color: rgb(215, 179, 245)
+       background-color: rebeccapurple
        }
        .quinta-seção{ 
         width: 360px;
         height: 82px;
-        background-color:rgb(234, 208, 240) ;
+         background-color:violet 
         display: flex;
         flex-direction: row;
         justify-content: space-between;
@@ -109,12 +109,12 @@ background-color: rgb(245, 179, 215)
     .retangulo{
         width: 360px;
         height: 82px;
-        background-color: rgb(255, 198, 255)
+        background-color: violet
     }
     .sexta-seção{ 
         width: 360px;
         height: 50px;
-        background-color:rgb(246, 250, 11) ;
+        background-color:yellow ;
         display: flex;
         flex-direction: row;
         justify-content: space-between;}
